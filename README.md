@@ -18,6 +18,6 @@ Apple silicon Mac, macOS 14 or newer. This personal edition is locally signed an
 
 ## Privacy
 
-System readings and layout preferences stay on the Mac. There are no accounts or analytics. The optional country flag contacts country.is to look up the country of the public connection. Update checks and downloads contact GitHub.
+System readings and layout preferences stay on the Mac. There are no accounts or analytics. The optional country flag contacts country.is, with ipwho.is as a backup, to look up the country of the public connection. Update checks and downloads contact GitHub.
 
 This repository hosts release downloads and their signed update feed.
